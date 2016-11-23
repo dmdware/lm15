@@ -1,0 +1,99 @@
+Asd
+start
+levs2
+B0
+level1
+a m148 i42,74 o107 h107 is255
+a m148 i80,12 o107 h107 is255
+a m150 i66,47 o107 h107 is255
+a m158 i107,10 o107 h107 is255
+a m148 i12,185 o107 h107 is255
+a m148 i48,137 o107 h107 is255
+a m158 i79,250 o107 h107 is255
+lc[level]sc[0]sz56250
+B1
+level1
+a m178 i93,55 o93 h93 is255
+a m162 i111,1 o93 h93 is255
+a m162 i25,172 o93 h93 is255
+a m162 i122,149 o93 h93 is255
+lc[level]sc[1]sz56250
+B2
+level1
+a m157 i18,32 o98 h98 is255
+a m191 i35,114 o98 h98 is255
+a m157 i12,195 o98 h98 is255
+a m159 i86,170 o98 h98 is255
+lc[level]sc[2]sz20250
+B3
+level1
+a m147 i19,105 o109 h109 is255
+a m179 i105,47 o109 h109 is255
+a m146 i25,239 o109 h109 is255
+a m146 i125,193 o109 h109 is255
+a m242 i106,248 o109 h109 is255
+lc[level]sc[3]sz56250
+B4
+level1
+a m184 i7,65 o71 h71 is255
+a m188 i4,119 o71 h71 is255
+a m250 i70,206 o71 h71 is255
+a m249 i67,229 o71 h71 is255
+lc[level]sc[4]sz33750
+B5
+level1
+lc[level]sc[5]sz20250
+B6
+level1
+a m149 i43,13 o107 h107 is255
+a m157 i59,79 o107 h107 is255
+a m148 i117,35 o107 h107 is255
+a m148 i112,77 o107 h107 is255
+a m213 i71,123 o107 h107 is255
+a m213 i101,113 o107 h107 is255
+lc[level]sc[6]sz90
+B7
+level1
+a m167 i9,132 o88 h88 is255
+lc[level]sc[7]sz810
+B8
+level1
+a m167 i58,19 o90 h90 is255
+lc[level]sc[8]sz270
+B9
+level1
+a m94 i31,20 o181 h181 is255
+a m106 i56,53 o181 h181 is255
+a m110 i53,254 o181 h181 is255
+a m106 i56,242 o181 h181 is255
+a m90 i249,55 o181 h181 is255
+a m122 i240,51 o181 h181 is255
+a m74 i135,156 o181 h181 is255
+a m74 i133,168 o181 h181 is255
+a m107 i247,169 o181 h181 is255
+a m254 i182,244 o181 h181 is255
+a m202 i214,153 o181 h181 is255
+a m203 i209,189 o181 h181 is255
+a m202 i229,144 o181 h181 is255
+lc[level]sc[9]sz27
+B10
+level1
+a m134 i54,110 o127 h127 is255
+a m170 i58,127 o127 h127 is255
+a m137 i73,59 o127 h127 is255
+a m168 i121,42 o127 h127 is255
+a m144 i82,120 o127 h127 is255
+a m195 i67,103 o127 h127 is255
+a m168 i44,255 o127 h127 is255
+a m132 i79,204 o127 h127 is255
+a m145 i115,245 o127 h127 is255
+a m160 i123,242 o127 h127 is255
+a m177 i113,255 o127 h127 is255
+a m176 i119,250 o127 h127 is255
+a m209 i93,217 o127 h127 is255
+lc[level]sc[10]sz2
+B11
+level1
+lc[level]sc[11]sz2187
+asd
+pass 541891
